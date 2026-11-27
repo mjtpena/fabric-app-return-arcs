@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+@import '@x10/shared/styles.css';
+@source "../../../shared/src";
+
+@keyframes arc-flow {
+  from {
+    stroke-dashoffset: 48;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.arc-animated {
+  animation: arc-flow var(--arc-dur, 4s) linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .arc-animated {
+    animation: none;
+  }
+}

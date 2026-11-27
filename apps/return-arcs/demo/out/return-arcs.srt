@@ -1,0 +1,103 @@
+1
+00:00:03,208 --> 00:00:09,072
+Cyber Monday returns arrive all through December and January, and without grading every box
+
+2
+00:00:09,072 --> 00:00:13,518
+goes straight back to shelf or costs more to handle than it is worth.
+
+3
+00:00:13,968 --> 00:00:20,856
+Return Arcs draws the whole reverse-logistics flow as boomerang arcs flying in from
+
+4
+00:00:20,856 --> 00:00:26,748
+four regions to a central dock and fanning out to six disposition bays.
+
+5
+00:00:27,875 --> 00:00:31,590
+Arc thickness shows unit volume, dash speed tracks age, and
+
+6
+00:00:31,590 --> 00:00:34,675
+arc height out of the dock is net recovery value.
+
+7
+00:00:35,125 --> 00:00:38,662
+Switch to the recovery lens and scrap arcs sag visibly
+
+8
+00:00:38,662 --> 00:00:43,115
+below the zero-dollar baseline so value loss stands out immediately.
+
+9
+00:00:43,918 --> 00:00:50,288
+Today ranks what needs attention right now: nine returns past the forty-eight-hour grading target,
+
+10
+00:00:50,288 --> 00:00:55,878
+four write-offs and high refunds waiting for the lead, and five returnless candidates.
+
+11
+00:00:56,328 --> 00:00:59,874
+Selecting the overdue cohort dims everything else and highlights
+
+12
+00:00:59,874 --> 00:01:02,478
+the withering dashes still sitting at the dock.
+
+13
+00:01:03,288 --> 00:01:08,421
+Switching View As to Grader brings ungraded dock arrivals forward; Returns Lead
+
+14
+00:01:08,421 --> 00:01:13,618
+dims them to spotlight pending write-offs and refunds over five hundred dollars.
+
+15
+00:01:14,419 --> 00:01:18,722
+At the Dock, entering a twelve-dollar mug with seven dollars of
+
+16
+00:01:18,722 --> 00:01:23,639
+handling triggers Rule Three immediately and offers a returnless refund.
+
+17
+00:01:24,089 --> 00:01:29,522
+The same form checks the holiday return window: November twenty-eighth orders stay in window
+
+18
+00:01:29,522 --> 00:01:35,369
+through January thirty-first, while December twenty-eighth orders past thirty days are marked late.
+
+19
+00:01:36,172 --> 00:01:39,961
+On the Grading bench, a customer with five returns out of ten
+
+20
+00:01:39,961 --> 00:01:45,862
+orders surfaces a fifty-percent repeat-returner banner for awareness without ever auto-denying.
+
+21
+00:01:46,671 --> 00:01:51,442
+At the Fork, the recovery ladder computes every bay side by side. For
+
+22
+00:01:51,442 --> 00:01:56,421
+a Grade C return, Restock is locked out with the exact rule explanation.
+
+23
+00:01:57,275 --> 00:02:02,385
+Finally, in the Write-off book, a six-hundred-twenty-dollar projector refund stays
+
+24
+00:02:02,385 --> 00:02:05,875
+pending until the Returns lead approves and releases it.
+
+25
+00:02:07,826 --> 00:02:11,129
+Return Arcs: every return graded on time, routed to
+
+26
+00:02:11,129 --> 00:02:14,756
+its highest recovery value, and governed by clear rules.
